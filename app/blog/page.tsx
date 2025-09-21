@@ -1,7 +1,7 @@
 import { JSX } from "react";
 
 export default function page(){
-  return <h1>Hello Next.js </h1>;
+  return <h1>Hello Next.js !</h1>;
 }
 // app/blog/page.tsx
 // export default function Page(): JSX.Element {
