@@ -1,8 +1,8 @@
 
-export default function page(){
-  return( 
-  <div>
-<h1 className="text-3xl">what is your lable</h1>
-  </div>
-  )
+export default function Page() {
+  return (
+    <div>
+      <h1>this is my label Id Waleed</h1>
+    </div>
+  );
 }
